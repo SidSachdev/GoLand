@@ -2,8 +2,8 @@ package main
 
 import "fmt"
 
-
 var z = "car"
+
 // use var when its outside function
 
 // use := inside the function
